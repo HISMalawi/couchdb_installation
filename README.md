@@ -4,11 +4,14 @@ This guide will walk you through the process of installing and setting up CouchD
 
 ## Installation
 
-1. Open your terminal.
+1. Open your terminal and clone the repo.
+   ```bash
+   git clone https://github.com/HISMalawi/couchdb_installation.git
+   ```
 
 2. Navigate to the folder containing the `install.sh` file and the 3 CouchDB Debian files.
    ```bash
-        cd couchdb_installation
+   cd couchdb_installation
    ```
 
 3. Install CouchDB by running the following command:
